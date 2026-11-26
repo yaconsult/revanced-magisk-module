@@ -52,4 +52,4 @@ patches-source = "docbt/patched-up"
 rv-brand = "docbt"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
 uptodown-dlurl = "https://google-play-newsstand.en.uptodown.com/android"
-enable-update-checks = true
+enable-update-checks = false
